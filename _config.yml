@@ -18,9 +18,9 @@ highlighter: pygments
 title:       "Michael A. Schmidt"
 keywords:    "theoretical particle physics, neutrino, dark matter, supersymmetry"
 description: "Michaels research pages"
-#source_link: "https://github.com/t413/SinglePaged"
-favicon:     "img/favicon.ico"
-touch_icon:  "img/apple-touch-icon.png"
+source_link: "http://physics.usyd.edu.au/~mschmidt"
+#favicon:     "img/favicon.ico"
+#touch_icon:  "img/apple-touch-icon.png"
 #google_analytics_key: UA-49607421-1 ## put YOUR key here to enable tracking! (blank to disable)
 
 

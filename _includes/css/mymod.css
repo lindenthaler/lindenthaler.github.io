@@ -1,0 +1,13 @@
+.sectiondivider h2 {
+  font-size:28px;
+  font-weight:700;
+  text-transform:uppercase;
+  position:absolute;
+  bottom:100px;
+  left:auto;
+  text-align:center;
+  display:block;
+  z-index:6;
+  width:240px;
+}
+
